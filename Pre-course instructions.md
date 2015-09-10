@@ -28,4 +28,6 @@ https://atom.io/
 
 Download the required package and install. Easy peasy.
 
-Finally it will help to set up a folder/directory for the course. So somewhere on your hard drive create a folder called e.g. python_course or something equally imaginative. We’ll use that to store the data we’ll deal with during the course.
+It will help to set up a folder/directory for the course. So somewhere on your hard drive create a folder called e.g. python_course or something equally imaginative. We’ll use that to store the data we’ll deal with during the course.
+
+If you'd like to try out both python and Atom then click [here](https://github.com/iaingallagher/BasicPython/blob/master/Week1%20-%20Getting%20started.ipynb) to be taken to a simple exercise to give you a flavour of using python, the iptyhon notebook (more about that during the course) and Atom.
