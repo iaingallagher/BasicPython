@@ -19,7 +19,7 @@ Finally launch the ipython-notebook. In the first empty empty cel type:
 ```
 print “Success”
 ```
-Press the play button at the top of the notebook and you should see the word “Success” printed. If so, good… you have passed phase 1 and you can close the notebook and the terminal (if it’s open)! If not we’ll hopefully deal with that when the course starts.
+Press the play button at the top of the notebook and you should see the word “Success” printed. If so, good… you can close the notebook and the terminal (if it’s open)! If not we’ll hopefully deal with that when the course starts.
 
 ## Installing the Atom text editor
 The other piece of software you need to install is the atom text editor. You can find this at:
@@ -30,4 +30,4 @@ Download the required package and install. Easy peasy.
 
 It will help to set up a folder/directory for the course. So somewhere on your hard drive create a folder called e.g. python_course or something equally imaginative. We’ll use that to store the data we’ll deal with during the course.
 
-If you'd like to try out both python and Atom then click [here](https://github.com/iaingallagher/BasicPython/blob/master/Week1%20-%20Getting%20started.ipynb) to be taken to a simple exercise to give you a flavour of using python, the iptyhon notebook (more about that during the course) and Atom.
+If you'd like to try out both python and Atom then click [here](https://github.com/iaingallagher/BasicPython/blob/master/Week1%20-%20Getting%20started.ipynb) to be taken to a simple exercise to give you a look at using python, the ipython notebook (more about that during the course) and Atom.
