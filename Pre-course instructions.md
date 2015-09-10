@@ -5,7 +5,7 @@ The easiest way to get python up and running on your system is to install a ‘p
 
 Follow this link to the download page:
 
-[http://continuum.io/downloads]
+http://continuum.io/downloads
 
 You should be offered the appropriate package for your system (mac or pc - if you’re using  linux I assume you mostly know what you’re doing and you’ll have python already on your system anyway).
 
@@ -24,7 +24,7 @@ Press the play button at the top of the notebook and you should see the word “
 ## Installing the Atom text editor
 The other piece of software you need to install is the atom text editor. You can find this at:
 
-[https://atom.io/]
+https://atom.io/
 
 Download the required package and install. Easy peasy.
 
