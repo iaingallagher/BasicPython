@@ -15,7 +15,7 @@ Download and follow the prompts to install.
 
 After you’ve installed you should have an icon somewhere for the Launcher. Launch this and install any updates required.
 
-Finally launch the ipython-notebook which will open in your browser and click new (top left hand corner). In the first empty empty cel type:
+Finally launch the ipython-notebook which will open in your browser and click new (top right hand corner). In the first empty empty cel type:
 ```
 print “Success”
 ```
