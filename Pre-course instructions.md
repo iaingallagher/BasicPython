@@ -15,18 +15,20 @@ Download and follow the prompts to install.
 
 After you’ve installed you should have an icon somewhere for the Launcher. Launch this and from install any updates required.
 
-Finally launch the ipython-notebook. In the first empty empty cel type:
+Finally launch the ipython-notebook whichb will open in your browser and click new (top left hand corner). In the first empty empty cel type:
 ```
 print “Success”
 ```
-Press the play button at the top of the notebook and you should see the word “Success” printed. If so, good… you can close the notebook and the terminal (if it’s open)! If not we’ll hopefully deal with that when the course starts.
+Press the play button at the top of the notebook and you should see the word “Success” printed. If so, good… you can close the notebook and the terminal (if it’s open press the Ctrl key and the c key at the same time twice then close the terminal)!
+
+If this hasn't worked we’ll hopefully deal with it when the course starts.
 
 ## Installing the Atom text editor
 The other piece of software you need to install is the atom text editor. You can find this at:
 
 https://atom.io/
 
-Download the required package and install. Easy peasy.
+Download the required package and install. Easy peasy - except you might need to turn off your anti-virus software (temporarily!) to get atom to install. Once installed you'll find atom in a 'Github Inc' folder in your Windows start menu or in the Applications folder on a mac.
 
 It will help to set up a folder/directory for the course. So somewhere on your hard drive create a folder called e.g. python_course or something equally imaginative. We’ll use that to store the data we’ll deal with during the course.
 
