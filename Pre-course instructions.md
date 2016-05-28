@@ -14,7 +14,7 @@ Select the graphical installer for Python 3.x (where x will be some number). Do 
 
 Download and follow the prompts to install.
 
-After you’ve installed you should have an icon somewhere for the ![Launcher](pics/launcher.png). Launch this and install any updates required.
+After you’ve installed you should have an icon somewhere for the Launcher - [](pics/launcher.png). Launch this and install any updates required.
 
 Finally launch the jupyter-notebook which will open in your browser and click new (top right hand corner). In the first empty empty cel type:
 ```
