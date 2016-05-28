@@ -16,7 +16,7 @@ Download and follow the prompts to install.
 
 After you’ve installed you should have an icon somewhere for the Launcher.
 
-![](pics/launcher.png).
+![](pics/launcher.png)
 
 Run the launcher and install any updates required.
 
