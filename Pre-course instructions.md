@@ -21,8 +21,8 @@ After you’ve installed you should have an icon somewhere for the Launcher.
 Run the launcher and install any updates required.
 
 Finally launch the jupyter-notebook which will open in your browser and click new (top right hand corner). In the first empty empty cell type:
-```
-print “Success”
+```python
+print(“Success”)
 ```
 Press the play button at the top of the notebook and you should see the word “Success” printed. If so, good… you can close the notebook and the terminal/console (if the terminal/console is open press the Ctrl key and the c key at the same time twice then close the terminal).
 
