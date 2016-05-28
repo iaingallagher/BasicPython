@@ -14,13 +14,17 @@ Select the graphical installer for Python 3.x (where x will be some number). Do 
 
 Download and follow the prompts to install.
 
-After you’ve installed you should have an icon somewhere for the Launcher - ![](pics/launcher.png). Launch this and install any updates required.
+After you’ve installed you should have an icon somewhere for the Launcher.
 
-Finally launch the jupyter-notebook which will open in your browser and click new (top right hand corner). In the first empty empty cel type:
+![](pics/launcher.png).
+
+Run the launcher and install any updates required.
+
+Finally launch the jupyter-notebook which will open in your browser and click new (top right hand corner). In the first empty empty cell type:
 ```
 print “Success”
 ```
-Press the play button at the top of the notebook and you should see the word “Success” printed. If so, good… you can close the notebook and the terminal (if it’s open press the Ctrl key and the c key at the same time twice then close the terminal)!
+Press the play button at the top of the notebook and you should see the word “Success” printed. If so, good… you can close the notebook and the terminal/console (if the terminal/console is open press the Ctrl key and the c key at the same time twice then close the terminal).
 
 If this hasn't worked we’ll hopefully deal with it when the course starts.
 
