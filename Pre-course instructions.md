@@ -20,10 +20,13 @@ After you’ve installed you should have an icon somewhere for the Launcher.
 
 Run the launcher and install any updates required.
 
-Finally launch the jupyter-notebook which will open in your browser and click new (top right hand corner). In the first empty empty cell type:
+Finally launch the jupyter-notebook which will open in your browser and click new (top right hand corner). In the first empty cell type:
 ```python
 print(“Success”)
 ```
+
+![](pics/success.png)
+
 Press the play button at the top of the notebook.
 
 ![](pics/play_button.png)
