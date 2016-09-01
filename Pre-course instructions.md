@@ -26,7 +26,7 @@ print(“Success”)
 ```
 Press the play button at the top of the notebook.
 
-![](pics/play.png)
+![](pics/play_button.png)
 
 You should see the word “Success” printed. If so, good… you can close the notebook and the terminal/console (if the terminal/console is open press the Ctrl key and the c key at the same time twice then close the terminal).
 
