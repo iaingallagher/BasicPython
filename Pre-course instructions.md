@@ -10,7 +10,7 @@ http://continuum.io/downloads
 
 You should be offered the appropriate package for your system (mac or pc - if you’re using  linux I assume you mostly know what you’re doing and you’ll have python already on your system anyway).
 
-Select the graphical installer for Python 3.x (where x will be some number). Do not select Python 2.x!
+Select the graphical installer for Python 3.x (where x will be some number). Do **not** select Python 2.x!
 
 Download and follow the prompts to install.
 
@@ -24,7 +24,11 @@ Finally launch the jupyter-notebook which will open in your browser and click ne
 ```python
 print(“Success”)
 ```
-Press the play button at the top of the notebook and you should see the word “Success” printed. If so, good… you can close the notebook and the terminal/console (if the terminal/console is open press the Ctrl key and the c key at the same time twice then close the terminal).
+Press the play button at the top of the notebook.
+
+![](pics/play.png)
+
+You should see the word “Success” printed. If so, good… you can close the notebook and the terminal/console (if the terminal/console is open press the Ctrl key and the c key at the same time twice then close the terminal).
 
 If this hasn't worked we’ll hopefully deal with it when the course starts.
 
