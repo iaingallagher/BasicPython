@@ -17,7 +17,7 @@ Download and follow the prompts to install.
 After you’ve installed you should have an icon somewhere for the Launcher or Anaconda Navigator.
 
 ![](pics/launcher.png)
-![](pics/anaconda_navigator.png)
+<img src="pics/anaconda_navigator.png" alt="Navigator" style="width: 200px;"/>
 
 Run the launcher and install any updates required.
 
