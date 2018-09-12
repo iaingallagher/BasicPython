@@ -20,7 +20,7 @@ After you’ve installed you should have an icon somewhere for the Launcher or A
 
 or
 
-![](pics/anaconda_navigator.png =x50)
+![](pics/anaconda_navigator.png)
 
 Run the launcher and install any updates required.
 
