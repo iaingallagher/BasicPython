@@ -35,13 +35,6 @@ You should see the word “Success” printed. If so, good… you can close the 
 
 If this hasn't worked we’ll hopefully deal with it when the course starts.
 
-## Installing the Atom text editor
-The other piece of software you need to install is the atom text editor. You can find this at:
-
-https://atom.io/
-
-Download the required package and install. Easy peasy - except you might need to turn off your anti-virus software (temporarily!) to get atom to install. Once installed you'll find atom in a 'Github Inc' folder in your Windows start menu or in the Applications folder on a mac.
-
 ## Folder setup
 
 It will help to set up a folder/directory for the course. So somewhere on your hard drive create a folder called e.g. python_course or something equally imaginative. We’ll use that to store the data we’ll deal with during the course.
