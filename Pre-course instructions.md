@@ -17,11 +17,12 @@ Download and follow the prompts to install.
 After you’ve installed you should have an icon somewhere for the Launcher or Anaconda Navigator.
 
 ![](pics/launcher.png)
-<img src="pics/anaconda_navigator.png" alt="Navigator" style="width: 200px;"/>
+<img src="pics/anaconda_navigator.png" alt="Navigator" style="width: 100px;"/>
 
 Run the launcher and install any updates required.
 
 Launch the jupyter-notebook which will open in your browser and click new (top right hand corner). 
+
 ![](pics/jupyter_notebook.png)
 
 In the first empty cell type:
