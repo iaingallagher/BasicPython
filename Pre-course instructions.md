@@ -4,9 +4,9 @@ In this short course on programming for data analysis we’ll be using the Pytho
 ## Installing the Anaconda python distribution
 The easiest way to get python up and running on your system is to install a ‘pre-packaged’ version that comes with bells and whistles. We’ll use the Anaconda Python distribution.
 
-Follow this link to the download page:
+Follow this link and then click the download page:
 
-http://continuum.io/downloads
+https://www.anaconda.com/
 
 You should be offered the appropriate package for your system (mac or pc - if you’re using  linux I assume you mostly know what you’re doing and you’ll have python already on your system anyway).
 
