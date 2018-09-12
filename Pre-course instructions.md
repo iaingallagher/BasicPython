@@ -33,6 +33,8 @@ In the first empty cell type:
 print(“Success”)
 ```
 
+The notebook page you have open should look like that pictured below.
+
 ![](pics/success.png)
 
 Press the play button at the top of the notebook.
@@ -47,4 +49,4 @@ If this hasn't worked we’ll hopefully deal with it when the course starts.
 
 It will help to set up a folder/directory for the course. So somewhere on your hard drive create a folder called e.g. python_course or something equally imaginative. We’ll use that to store the data we’ll deal with during the course.
 
-If you'd like to try out both python and Atom then click [here](https://gitlab.com/iaingallagher/BasicPython/blob/master/Week1%20-%20Getting%20started.ipynb) to be taken to a simple exercise to give you a look at using python, the jupyter notebook (more about that during the course) and Atom.
+If you'd like to try out both python now click [here](https://gitlab.com/iaingallagher/BasicPython/blob/master/Week1%20-%20Getting%20started.ipynb) to be taken to a simple exercise to give you a look at using python.
