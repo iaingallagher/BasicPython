@@ -14,13 +14,17 @@ Select the graphical installer for Python 3.x (where x will be some number). Do 
 
 Download and follow the prompts to install.
 
-After you’ve installed you should have an icon somewhere for the Launcher.
+After you’ve installed you should have an icon somewhere for the Launcher or Anaconda Navigator.
 
 ![](pics/launcher.png)
+![](pics/anaconda_navigator.png)
 
 Run the launcher and install any updates required.
 
-Finally launch the jupyter-notebook which will open in your browser and click new (top right hand corner). In the first empty cell type:
+Launch the jupyter-notebook which will open in your browser and click new (top right hand corner). 
+![](pics/jupyter_notebook.png)
+
+In the first empty cell type:
 ```python
 print(“Success”)
 ```
